@@ -1,0 +1,15 @@
+{
+  "user": "lilo1234",
+  "version": "1.0",
+  "status": "active",
+  "config": {
+    "premium": false,
+    "ban": false,
+    "max_login": 5
+  },
+  "server": {
+    "host": "https://example.com/api",
+    "timeout": 5000
+  },
+  "message": "Welcome lilo1234"
+}
